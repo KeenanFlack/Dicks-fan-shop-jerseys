@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+dash
+dash_table
+plotly.express
+pandas
+import
