@@ -1,7 +1,7 @@
 # Dick's Sporting Goods Analysis
 
 ## Overview
-This repository contains a  Jupyter notebook that explores and analyzes product listing data for fan shop jerseys from Dick's Sporting Goods. It delves into price distributions, brand categorization, city-based segmentation, and listing details to derive actionable insights and patterns. 
+This repository contains a  Jupyter notebook that explores and analyzes product listing data for fan shop jerseys from Dick's Sporting Goods. It goes into price distributions, brand categorization, city-based segmentation, and listing details to derive actionable insights and patterns. 
 
 Also, there is a dashboard named dashboard.py that will display information about the cleaned data after going through the notebook.
 
