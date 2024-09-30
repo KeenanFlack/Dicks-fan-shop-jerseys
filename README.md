@@ -19,11 +19,5 @@ To run this notebook:
 3. Install required libraries as listed in the `requirements.txt` (if provided).
 4. Execute the cells in sequence to view the analysis.
 
-## Contributing
-Contributions to this analysis are welcome. Please ensure to follow the existing structure and coding standards within the notebook.
-
-## License
-Specify the license under which this notebook is shared (if applicable).
-
 ## Contact
-For any additional questions or contributions, please contact [your-email@example.com].
+For any additional questions or contributions, please contact keenanflack@gmail.com.
